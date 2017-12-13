@@ -1,6 +1,6 @@
 {
   "name": "rosmaro-in-memory-storage",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "In-memory storage for Rosmaro.",
   "main": "storage.js",
   "scripts": {
