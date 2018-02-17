@@ -7,6 +7,6 @@ $ npm i rosmaro-in-memory-storage --save
 ## Building a storage
 
 ```js
-const make_storage = require('rosmaro-in-memory-storage')
+const make_storage = require('rosmaro-in-memory-storage').default
 const storage = make_storage()
 ```

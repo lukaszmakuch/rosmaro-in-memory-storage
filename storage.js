@@ -1,8 +1,8 @@
-module.exports = () => {
-  let data;
+exports.default = function () {
+  var data;
 
   return {
-    get: () => data,
-    set: newData => {data = newData;}
+    get: function () {return data},
+    set: function (newData) {data = newData;}
   };
 };
