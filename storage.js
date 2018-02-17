@@ -1,4 +1,4 @@
-exports.default = function () {
+module.exports = function () {
   var data;
 
   return {

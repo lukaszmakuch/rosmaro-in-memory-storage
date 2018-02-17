@@ -1,4 +1,4 @@
-const makeStorage = require('./storage').default
+const makeStorage = require('./storage')
 const assert = require('assert')
 
 describe("in-memory storage", function () {
